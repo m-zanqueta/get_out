@@ -33,7 +33,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Para instalar o jogo Get Out, siga estas etapas:
 
 ```
-Baixe o repositório e o execute em sua máquina
+Baixe o Get Out e execute-o em sua máquina
 ```
 
 ## 📫 Contribuindo para o projeto
